@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="webpack.config.vendor.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="webpack.config.vendor.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack.config.vendor.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
@@ -24,7 +24,91 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Index.tsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClientApp/components/Layout/Index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeftSideMenu.tsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClientApp/components/Layout/LeftSideMenu.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="516" column="22" lean-forward="true" selection-start-line="516" selection-start-column="22" selection-end-line="516" selection-end-column="22" />
+              <folding>
+                <element signature="e#11122#11518#0" expanded="false" />
+                <element signature="e#11678#15960#0" expanded="false" />
+                <element signature="e#11753#12109#0" expanded="false" />
+                <element signature="e#12132#12486#0" expanded="false" />
+                <element signature="e#12509#12851#0" expanded="false" />
+                <element signature="e#12874#13247#0" expanded="false" />
+                <element signature="e#16067#28080#0" expanded="false" />
+                <element signature="e#16122#16837#0" expanded="false" />
+                <element signature="e#16424#16743#0" expanded="false" />
+                <element signature="e#16860#27078#0" expanded="false" />
+                <element signature="e#19509#20442#0" expanded="false" />
+                <element signature="e#20467#21385#0" expanded="false" />
+                <element signature="e#20846#21355#0" expanded="false" />
+                <element signature="e#21410#22327#0" expanded="false" />
+                <element signature="e#21788#22297#0" expanded="false" />
+                <element signature="e#22352#23271#0" expanded="false" />
+                <element signature="e#23296#24215#0" expanded="false" />
+                <element signature="e#24240#25160#0" expanded="false" />
+                <element signature="e#24308#24594#0" expanded="false" />
+                <element signature="e#24621#25130#0" expanded="false" />
+                <element signature="e#25185#26109#0" expanded="false" />
+                <element signature="e#25570#26079#0" expanded="false" />
+                <element signature="e#26134#27050#0" expanded="false" />
+                <element signature="e#27101#28053#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ClientApp/components/Layout/LeftSideMenu.tsx" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -64,6 +148,24 @@
               <item name="QT.Web" type="b2602c69:ProjectViewProjectNode" />
               <item name="QT.Web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="QT.Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QT.Web" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QT.Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QT.Web" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QT.Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QT.Web" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -99,23 +201,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514345239511</updated>
-      <workItem from="1514345241745" duration="171000" />
+      <workItem from="1514345241745" duration="2004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171000" />
+    <option name="totallyTimeSpent" value="2004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45662847" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12765957" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -134,15 +238,97 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ClientApp/components/Layout/LeftSideMenu.tsx</url>
+          <line>6</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ClientApp/components/Layout/LeftSideMenu.tsx</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.vendor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/components/Layout/Index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/components/Layout/LeftSideMenu.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="516" column="22" lean-forward="true" selection-start-line="516" selection-start-column="22" selection-end-line="516" selection-end-column="22" />
+          <folding>
+            <element signature="e#11122#11518#0" expanded="false" />
+            <element signature="e#11678#15960#0" expanded="false" />
+            <element signature="e#11753#12109#0" expanded="false" />
+            <element signature="e#12132#12486#0" expanded="false" />
+            <element signature="e#12509#12851#0" expanded="false" />
+            <element signature="e#12874#13247#0" expanded="false" />
+            <element signature="e#16067#28080#0" expanded="false" />
+            <element signature="e#16122#16837#0" expanded="false" />
+            <element signature="e#16424#16743#0" expanded="false" />
+            <element signature="e#16860#27078#0" expanded="false" />
+            <element signature="e#19509#20442#0" expanded="false" />
+            <element signature="e#20467#21385#0" expanded="false" />
+            <element signature="e#20846#21355#0" expanded="false" />
+            <element signature="e#21410#22327#0" expanded="false" />
+            <element signature="e#21788#22297#0" expanded="false" />
+            <element signature="e#22352#23271#0" expanded="false" />
+            <element signature="e#23296#24215#0" expanded="false" />
+            <element signature="e#24240#25160#0" expanded="false" />
+            <element signature="e#24308#24594#0" expanded="false" />
+            <element signature="e#24621#25130#0" expanded="false" />
+            <element signature="e#25185#26109#0" expanded="false" />
+            <element signature="e#25570#26079#0" expanded="false" />
+            <element signature="e#26134#27050#0" expanded="false" />
+            <element signature="e#27101#28053#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

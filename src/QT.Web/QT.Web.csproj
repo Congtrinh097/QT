@@ -22,6 +22,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\components\Layout\Footer.tsx" />
+    <None Remove="ClientApp\components\Layout\Header.tsx" />
+    <None Remove="ClientApp\components\Layout\Index.tsx" />
+    <None Remove="ClientApp\components\Layout\LeftSideMenu.tsx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\QT.Common\QT.Common.csproj" />
     <ProjectReference Include="..\QT.Entities\QT.Entities.csproj" />
     <ProjectReference Include="..\QT.Repository\QT.Repository.csproj" />
@@ -29,6 +36,13 @@
 
   <ItemGroup>
     <Folder Include="ClientApp\dist\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\components\Layout\Footer.tsx" />
+    <TypeScriptCompile Include="ClientApp\components\Layout\Header.tsx" />
+    <TypeScriptCompile Include="ClientApp\components\Layout\Index.tsx" />
+    <TypeScriptCompile Include="ClientApp\components\Layout\LeftSideMenu.tsx" />
   </ItemGroup>
 
   <Target Name="DebugRunWebpack" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('wwwroot\dist') ">
