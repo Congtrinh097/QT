@@ -1,0 +1,9 @@
+D:\HTActive\CTX\src\CTX.Common\bin\Debug\netcoreapp2.0\CTX.Common.deps.json
+D:\HTActive\CTX\src\CTX.Common\bin\Debug\netcoreapp2.0\CTX.Common.dll
+D:\HTActive\CTX\src\CTX.Common\bin\Debug\netcoreapp2.0\CTX.Common.pdb
+D:\HTActive\CTX\src\CTX.Common\obj\Debug\netcoreapp2.0\CTX.Common.csproj.CoreCompileInputs.cache
+D:\HTActive\CTX\src\CTX.Common\obj\Debug\netcoreapp2.0\CTX.Common.AssemblyInfoInputs.cache
+D:\HTActive\CTX\src\CTX.Common\obj\Debug\netcoreapp2.0\CTX.Common.AssemblyInfo.cs
+D:\HTActive\CTX\src\CTX.Common\obj\Debug\netcoreapp2.0\CTX.Common.dll
+D:\HTActive\CTX\src\CTX.Common\obj\Debug\netcoreapp2.0\CTX.Common.pdb
+D:\HTActive\ctx\src\CTX.Common\obj\Debug\netcoreapp2.0\CTX.Common.csprojResolveAssemblyReference.cache

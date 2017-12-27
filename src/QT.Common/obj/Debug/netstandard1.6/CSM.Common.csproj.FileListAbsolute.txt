@@ -1,0 +1,9 @@
+D:\HTActive\WebBase\CSM\src\CSM.Common\bin\Debug\netstandard1.6\CSM.Common.deps.json
+D:\HTActive\WebBase\CSM\src\CSM.Common\bin\Debug\netstandard1.6\CSM.Common.dll
+D:\HTActive\WebBase\CSM\src\CSM.Common\bin\Debug\netstandard1.6\CSM.Common.pdb
+D:\HTActive\WebBase\CSM\src\CSM.Common\obj\Debug\netstandard1.6\CSM.Common.csprojResolveAssemblyReference.cache
+D:\HTActive\WebBase\CSM\src\CSM.Common\obj\Debug\netstandard1.6\CSM.Common.csproj.CoreCompileInputs.cache
+D:\HTActive\WebBase\CSM\src\CSM.Common\obj\Debug\netstandard1.6\CSM.Common.AssemblyInfoInputs.cache
+D:\HTActive\WebBase\CSM\src\CSM.Common\obj\Debug\netstandard1.6\CSM.Common.AssemblyInfo.cs
+D:\HTActive\WebBase\CSM\src\CSM.Common\obj\Debug\netstandard1.6\CSM.Common.dll
+D:\HTActive\WebBase\CSM\src\CSM.Common\obj\Debug\netstandard1.6\CSM.Common.pdb

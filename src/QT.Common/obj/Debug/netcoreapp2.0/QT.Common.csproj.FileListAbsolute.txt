@@ -1,0 +1,8 @@
+D:\HTActive\QT\src\QT.Common\bin\Debug\netcoreapp2.0\CTX.Common.deps.json
+D:\HTActive\QT\src\QT.Common\bin\Debug\netcoreapp2.0\CTX.Common.dll
+D:\HTActive\QT\src\QT.Common\bin\Debug\netcoreapp2.0\CTX.Common.pdb
+D:\HTActive\QT\src\QT.Common\obj\Debug\netcoreapp2.0\QT.Common.csproj.CoreCompileInputs.cache
+D:\HTActive\QT\src\QT.Common\obj\Debug\netcoreapp2.0\QT.Common.AssemblyInfoInputs.cache
+D:\HTActive\QT\src\QT.Common\obj\Debug\netcoreapp2.0\QT.Common.AssemblyInfo.cs
+D:\HTActive\QT\src\QT.Common\obj\Debug\netcoreapp2.0\CTX.Common.dll
+D:\HTActive\QT\src\QT.Common\obj\Debug\netcoreapp2.0\CTX.Common.pdb

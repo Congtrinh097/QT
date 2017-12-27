@@ -1,0 +1,11 @@
+D:\HTActive\CTX\src\CTX.Entities\bin\Debug\netcoreapp2.0\CTX.Entities.deps.json
+D:\HTActive\CTX\src\CTX.Entities\bin\Debug\netcoreapp2.0\CTX.Entities.dll
+D:\HTActive\CTX\src\CTX.Entities\bin\Debug\netcoreapp2.0\CTX.Entities.pdb
+D:\HTActive\CTX\src\CTX.Entities\bin\Debug\netcoreapp2.0\CTX.Common.dll
+D:\HTActive\CTX\src\CTX.Entities\bin\Debug\netcoreapp2.0\CTX.Common.pdb
+D:\HTActive\CTX\src\CTX.Entities\obj\Debug\netcoreapp2.0\CTX.Entities.csprojResolveAssemblyReference.cache
+D:\HTActive\CTX\src\CTX.Entities\obj\Debug\netcoreapp2.0\CTX.Entities.csproj.CoreCompileInputs.cache
+D:\HTActive\CTX\src\CTX.Entities\obj\Debug\netcoreapp2.0\CTX.Entities.AssemblyInfoInputs.cache
+D:\HTActive\CTX\src\CTX.Entities\obj\Debug\netcoreapp2.0\CTX.Entities.AssemblyInfo.cs
+D:\HTActive\CTX\src\CTX.Entities\obj\Debug\netcoreapp2.0\CTX.Entities.dll
+D:\HTActive\CTX\src\CTX.Entities\obj\Debug\netcoreapp2.0\CTX.Entities.pdb

@@ -1,0 +1,13 @@
+D:\HTActive\QT\src\QT.Repository\bin\Debug\netcoreapp2.0\CTX.Repository.deps.json
+D:\HTActive\QT\src\QT.Repository\bin\Debug\netcoreapp2.0\CTX.Repository.dll
+D:\HTActive\QT\src\QT.Repository\bin\Debug\netcoreapp2.0\CTX.Repository.pdb
+D:\HTActive\QT\src\QT.Repository\bin\Debug\netcoreapp2.0\CTX.Common.dll
+D:\HTActive\QT\src\QT.Repository\bin\Debug\netcoreapp2.0\CTX.Entities.dll
+D:\HTActive\QT\src\QT.Repository\bin\Debug\netcoreapp2.0\CTX.Common.pdb
+D:\HTActive\QT\src\QT.Repository\bin\Debug\netcoreapp2.0\CTX.Entities.pdb
+D:\HTActive\QT\src\QT.Repository\obj\Debug\netcoreapp2.0\QT.Repository.csprojResolveAssemblyReference.cache
+D:\HTActive\QT\src\QT.Repository\obj\Debug\netcoreapp2.0\QT.Repository.csproj.CoreCompileInputs.cache
+D:\HTActive\QT\src\QT.Repository\obj\Debug\netcoreapp2.0\QT.Repository.AssemblyInfoInputs.cache
+D:\HTActive\QT\src\QT.Repository\obj\Debug\netcoreapp2.0\QT.Repository.AssemblyInfo.cs
+D:\HTActive\QT\src\QT.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.dll
+D:\HTActive\QT\src\QT.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.pdb

@@ -1,0 +1,26 @@
+D:\.NET Trainning\Framework\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Repository.deps.json
+D:\.NET Trainning\Framework\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Repository.dll
+D:\.NET Trainning\Framework\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Repository.pdb
+D:\.NET Trainning\Framework\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Common.dll
+D:\.NET Trainning\Framework\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Entities.dll
+D:\.NET Trainning\Framework\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Common.pdb
+D:\.NET Trainning\Framework\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Entities.pdb
+D:\.NET Trainning\Framework\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.csprojResolveAssemblyReference.cache
+D:\.NET Trainning\Framework\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.csproj.CoreCompileInputs.cache
+D:\.NET Trainning\Framework\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.AssemblyInfoInputs.cache
+D:\.NET Trainning\Framework\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.AssemblyInfo.cs
+D:\.NET Trainning\Framework\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.dll
+D:\.NET Trainning\Framework\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.pdb
+D:\HTActive\WebBase2.0\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Repository.deps.json
+D:\HTActive\WebBase2.0\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Repository.dll
+D:\HTActive\WebBase2.0\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Repository.pdb
+D:\HTActive\WebBase2.0\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Common.dll
+D:\HTActive\WebBase2.0\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Entities.dll
+D:\HTActive\WebBase2.0\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Common.pdb
+D:\HTActive\WebBase2.0\src\Base.Repository\bin\Debug\netcoreapp2.0\Base.Entities.pdb
+D:\HTActive\WebBase2.0\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.csprojResolveAssemblyReference.cache
+D:\HTActive\WebBase2.0\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.csproj.CoreCompileInputs.cache
+D:\HTActive\WebBase2.0\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.AssemblyInfoInputs.cache
+D:\HTActive\WebBase2.0\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.AssemblyInfo.cs
+D:\HTActive\WebBase2.0\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.dll
+D:\HTActive\WebBase2.0\src\Base.Repository\obj\Debug\netcoreapp2.0\Base.Repository.pdb

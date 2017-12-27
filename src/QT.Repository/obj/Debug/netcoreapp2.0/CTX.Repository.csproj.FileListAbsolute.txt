@@ -1,0 +1,13 @@
+D:\HTActive\CTX\src\CTX.Repository\bin\Debug\netcoreapp2.0\CTX.Repository.deps.json
+D:\HTActive\CTX\src\CTX.Repository\bin\Debug\netcoreapp2.0\CTX.Repository.dll
+D:\HTActive\CTX\src\CTX.Repository\bin\Debug\netcoreapp2.0\CTX.Repository.pdb
+D:\HTActive\CTX\src\CTX.Repository\bin\Debug\netcoreapp2.0\CTX.Common.dll
+D:\HTActive\CTX\src\CTX.Repository\bin\Debug\netcoreapp2.0\CTX.Entities.dll
+D:\HTActive\CTX\src\CTX.Repository\bin\Debug\netcoreapp2.0\CTX.Common.pdb
+D:\HTActive\CTX\src\CTX.Repository\bin\Debug\netcoreapp2.0\CTX.Entities.pdb
+D:\HTActive\CTX\src\CTX.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.csprojResolveAssemblyReference.cache
+D:\HTActive\CTX\src\CTX.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.csproj.CoreCompileInputs.cache
+D:\HTActive\CTX\src\CTX.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.AssemblyInfoInputs.cache
+D:\HTActive\CTX\src\CTX.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.AssemblyInfo.cs
+D:\HTActive\CTX\src\CTX.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.dll
+D:\HTActive\CTX\src\CTX.Repository\obj\Debug\netcoreapp2.0\CTX.Repository.pdb

@@ -1,0 +1,22 @@
+D:\.NET Trainning\Framework\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Entities.deps.json
+D:\.NET Trainning\Framework\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Entities.dll
+D:\.NET Trainning\Framework\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Entities.pdb
+D:\.NET Trainning\Framework\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Common.dll
+D:\.NET Trainning\Framework\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Common.pdb
+D:\.NET Trainning\Framework\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.csprojResolveAssemblyReference.cache
+D:\.NET Trainning\Framework\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.csproj.CoreCompileInputs.cache
+D:\.NET Trainning\Framework\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.AssemblyInfoInputs.cache
+D:\.NET Trainning\Framework\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.AssemblyInfo.cs
+D:\.NET Trainning\Framework\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.dll
+D:\.NET Trainning\Framework\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.pdb
+D:\HTActive\WebBase2.0\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Entities.deps.json
+D:\HTActive\WebBase2.0\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Entities.dll
+D:\HTActive\WebBase2.0\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Entities.pdb
+D:\HTActive\WebBase2.0\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Common.dll
+D:\HTActive\WebBase2.0\src\Base.Entities\bin\Debug\netcoreapp2.0\Base.Common.pdb
+D:\HTActive\WebBase2.0\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.csprojResolveAssemblyReference.cache
+D:\HTActive\WebBase2.0\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.csproj.CoreCompileInputs.cache
+D:\HTActive\WebBase2.0\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.AssemblyInfoInputs.cache
+D:\HTActive\WebBase2.0\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.AssemblyInfo.cs
+D:\HTActive\WebBase2.0\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.dll
+D:\HTActive\WebBase2.0\src\Base.Entities\obj\Debug\netcoreapp2.0\Base.Entities.pdb

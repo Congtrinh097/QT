@@ -1,0 +1,9 @@
+D:\.NET Trainning\Framework\src\Base.Common\bin\Debug\netstandard1.6\Base.Common.deps.json
+D:\.NET Trainning\Framework\src\Base.Common\bin\Debug\netstandard1.6\Base.Common.dll
+D:\.NET Trainning\Framework\src\Base.Common\bin\Debug\netstandard1.6\Base.Common.pdb
+D:\.NET Trainning\Framework\src\Base.Common\obj\Debug\netstandard1.6\Base.Common.csprojResolveAssemblyReference.cache
+D:\.NET Trainning\Framework\src\Base.Common\obj\Debug\netstandard1.6\Base.Common.csproj.CoreCompileInputs.cache
+D:\.NET Trainning\Framework\src\Base.Common\obj\Debug\netstandard1.6\Base.Common.AssemblyInfoInputs.cache
+D:\.NET Trainning\Framework\src\Base.Common\obj\Debug\netstandard1.6\Base.Common.AssemblyInfo.cs
+D:\.NET Trainning\Framework\src\Base.Common\obj\Debug\netstandard1.6\Base.Common.dll
+D:\.NET Trainning\Framework\src\Base.Common\obj\Debug\netstandard1.6\Base.Common.pdb
